@@ -1,5 +1,7 @@
 # Front End Nanondegree Arcade Game Project
 
+Author: Ollie Graham
+
 Recreate "Frogger" style arcade game using Javascript object-oriented programming
 
 ## How to Run Game
