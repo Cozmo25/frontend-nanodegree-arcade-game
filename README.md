@@ -13,10 +13,11 @@ Recreate "Frogger" style arcade game using Javascript object-oriented programmin
 ## How to Play Game
 
 ### Controls
-Move left = "Left Arrow Key"
-Move Right = Right Arrow Key"
-Move Up = "Up Arrow Key"
-Move Down = "Down Arrow Key"
+
+* Move left = "Left Arrow Key"
+* Move Right = Right Arrow Key"
+* Move Up = "Up Arrow Key"
+* Move Down = "Down Arrow Key"
 
 ### Goal
 Navigate the Boy character from the starting point at the bottom of the screen, past the deadly bugs to the safety of the water at the top of the screen!
